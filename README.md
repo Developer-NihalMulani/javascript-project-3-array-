@@ -1,0 +1,1 @@
+in this project i leasrned how to use function and diffrent array methods in java script to perform various operations on data i understood how to create reuseable functions proccess array element and use element like map, filter,  reduce etc.
